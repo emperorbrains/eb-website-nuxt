@@ -1,0 +1,440 @@
+body {
+}
+.header .header-part {
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #f1f1f1;
+}
+/*-----back-button----------*/
+.back-button a {
+  float: right;
+  margin-top: -30px;
+  color: #8a959e;
+  font-size: 20px;
+  font-weight: 500;
+}
+.clearfix::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
+.client-logo {
+  margin-top: 60px;
+  position: relative;
+  float: left;
+  box-sizing: border-box;
+}
+.client-logo h4 {
+  font-size: 20px;
+  display: block;
+  line-height: 1.2;
+  margin-left: 40%;
+}
+.client-logo .testimonial-slide {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.inquiry {
+  border-bottom: 1px solid #d9dee2;
+  padding-bottom: 10px;
+  margin-top: 40px;
+}
+.inquiry p {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 26px;
+  display: inline;
+  margin-bottom: 0;
+}
+.copyright-recaptcha {
+  width: 100%;
+}
+.copyright-recaptcha p {
+  font-size: 13px;
+}
+.copyright-recaptcha p a {
+  color: #f13c31;
+  cursor: pointer;
+  text-decoration: none;
+}
+/*--------------------Form--------------------------*/
+.form {
+  background-color: #f1f4f5;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.form-group {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+}
+
+.intl-tel-input {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 40px;
+}
+.intl-tel-input.allow-dropdown .flag-container,
+.intl-tel-input.separate-dial-code .flag-container {
+  right: auto;
+  left: 0;
+}
+.intl-tel-input .flag-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+}
+.intl-tel-input * {
+  box-sizing: border-box;
+  color: #323a45;
+  font-size: 14px;
+  text-align: left;
+}
+.intl-tel-input.separate-dial-code .selected-flag {
+  display: table;
+  border-radius: 4px;
+  background-color: transparent;
+}
+.intl-tel-input .selected-flag {
+  z-index: 1;
+  position: relative;
+  width: 100px !important;
+  height: 100%;
+  padding: 0 2px 0 15px;
+}
+.intl-tel-input .selected-flag .iti-flag {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.iti-flag.in {
+  height: 14px;
+  background-position: -2413px 0;
+}
+.iti-flag {
+  width: 20px;
+  background-image: url(../../assets/images/flags.ae33acae404631e997ef.png);
+  background-repeat: no-repeat;
+  background-color: #dbdbdb;
+}
+.intl-tel-input.separate-dial-code .selected-dial-code {
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 28px;
+}
+.intl-tel-input .selected-flag .iti-arrow {
+  position: absolute;
+  top: 50%;
+  margin-top: -2px;
+  right: 0;
+  width: 0;
+  height: 0;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-top-style: 4px solid #555;
+}
+.intl-tel-input .country-list {
+  position: absolute;
+  z-index: 2;
+  list-style: none;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  border: 1px solid #ccc;
+  white-space: nowrap;
+  max-height: 200px;
+  overflow-y: scroll;
+}
+.intl-tel-input .hide {
+  display: none;
+}
+.intl-tel-input .country-list .country {
+  padding: 5px 10px;
+}
+.intl-tel-input .country-list .flag-box {
+  margin-right: 6px;
+  width: 20px;
+  display: inline-block;
+  background: 0 0;
+  vertical-align: middle;
+}
+.iti-flag.us {
+  height: 11px;
+  background-position: -5241px 0;
+}
+.intl-tel-input .country-list .country-name {
+  background: 0 0;
+  vertical-align: middle;
+}
+.intl-tel-input .country-list .country .dial-code {
+  color: #999;
+}
+input.contact-number {
+  width: 100%;
+  float: right;
+  padding-left: 110px;
+}
+.intl-tel-input.selected-dial-code input,
+.intl-tel-input.selected-dial-code input[type="tel"] {
+  padding-right: 6px;
+  margin-left: 0;
+}
+
+.intl-tel-input input,
+.intl-tel-input input[type="tel"],
+.intl-tel-input input[type="text"] {
+  position: relative;
+  z-index: 0;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-right: 36px;
+  margin-right: 0;
+}
+.form-group {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+.group label {
+  margin-bottom: 5px;
+  display: block;
+  font-size: 1rem;
+  color: #252b33;
+  font-weight: 400;
+}
+.group.file-upload-sec .projectfileupload {
+  position: relative;
+  width: 100%;
+  height: 40px;
+  border: 1px solid #d9dee2;
+  background: #fff;
+}
+.group.file-upload-sec .projectfileupload p {
+  text-align: center;
+  margin-top: 5px;
+}
+input {
+  background-color: #fff;
+  border: 1px solid #d9dee2;
+  height: 40px;
+  display: block;
+  padding: 0 0 0 15px;
+  overflow: visible;
+  line-height: inherit;
+  font-size: 14px;
+  box-sizing: border-box;
+  border-radius: 0;
+}
+.group.file-upload-sec .projectfileupload input {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #d9dee2;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  outline: 0;
+  opacity: 0;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.font-weight-bold {
+  font-weight: 700;
+}
+.group .file-upload-sec .projectfileupload p {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  color: #252b33;
+  font-size: 14px;
+  line-height: 37px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+.group.file-upload-sec p.upload-file-size {
+  color: #252b33;
+  font-size: 11px;
+  line-height: 22px;
+  margin: 3px 0;
+}
+.btn {
+  background-color: #f13c31;
+  border: 2px solid #f13c31;
+  padding: 5px 15px;
+  color: white;
+  font-weight: 400;
+}
+.btn:hover {
+  background-color: white;
+  color: #f13c31;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 0px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+/*footer*/
+body {
+  font-size: 1rem;
+  color: #212529;
+}
+.footer-section {
+  padding: 40px 0 0;
+  background-color: #fafafa;
+  z-index: 1;
+}
+
+.footer-section .phone-number-box a,
+.footer-section ul li a {
+  color: #252b33;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
+div {
+  display: block;
+}
+a:hover {
+  color: #f13c31 !important;
+  text-decoration: none;
+}
+.col-auto,
+.col-lg,
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-auto,
+.col-md,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-auto,
+.col-sm,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-auto,
+.col-xl,
+.col-xl-1,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-auto {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px !important;
+  margin-left: -15px !important;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+  max-width: 100%;
+}
+.footer-section ul li {
+  list-style: none;
+}
+.footer-section .email-msg .contact-number .title {
+  font-size: 15px;
+  color: #8b969f;
+  height: inherit;
+}
+.footer-section h4 {
+  color: #252b33;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.country-number a {
+  color: #212529;
+}
+h5 {
+  font-weight: 600;
+}
+.f-mar-top-30 {
+  margin-top: 20px;
+}
+p {
+  margin-bottom: 5px !important;
+  line-height: 20px;
+  margin-bottom: 0;
+}
+ul li a {
+  text-decoration: none;
+  color: #212529;
+  cursor: pointer;
+}
+.footer-section ul {
+  padding-left: 0px;
+}
+.footer-section .email-msg a {
+  color: #f13c31;
+  font-size: 15px;
+  font-weight: 400;
+  cursor: pointer;
+}
+.footer-section .service-list {
+  padding-left: 30px;
+}
+/*-------Last footer--------*/
+.footer-section .footer-last {
+  border-top: 1px solid rgb(233, 230, 230);
+  padding-top: 10px;
+}
+.footer-section .social-icons ul li a {
+  font-size: 20px;
+}
+.footer-section .social-icons ul li a:hover {
+  color: #f13c31;
+}
