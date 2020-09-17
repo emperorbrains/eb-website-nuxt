@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-md bg-white navbar-dark fixed-top">
-      <div class="container">
+      <div class="container-fluid">
         <a href="" class="navbar-brand font-weight-bold text-dark"
           ><i class="project01.html" aria-hidden="true"></i>
           <svg
@@ -33,26 +33,35 @@
         <div id="collapsenavbar" class="collapse navbar-collapse text-center">
           <ul class="navbar-nav ml-auto mr-auto">
             <li class="nav-item pr-4 font-weight-bold">
-              <a href="About.html" class="nav-link text-dark">About</a>
+              <nuxt-link to="about-us" class="nav-link text-dark"
+                >About</nuxt-link
+              >
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <a href="services.html" class="nav-link text-dark">Services</a>
+              <nuxt-link to="services" class="nav-link text-dark"
+                >Services</nuxt-link
+              >
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <a href="" class="nav-link text-dark">Technology</a>
+              <nuxt-link to="#" class="nav-link text-dark"
+                >Technology</nuxt-link
+              >
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <a href="" class="nav-link text-dark">Solutions</a>
+              <nuxt-link to="#" class="nav-link text-dark">Solutions</nuxt-link>
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <a href="" class="nav-link text-dark">Portfolio</a>
+              <nuxt-link to="portfolio" class="nav-link text-dark"
+                >Portfolio</nuxt-link
+              >
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <a href="" class="nav-link text-dark">Methodology</a>
+              <nuxt-link to="#" class="nav-link text-dark"
+                >Methodology</nuxt-link
+              >
             </li>
           </ul>
-
-          <a class="link-button" href="contact.html">Contact Us &#8594;</a>
+          <nuxt-link to="#" class="link-button">Contact Us &#8594;</nuxt-link>
         </div>
       </div>
     </nav>

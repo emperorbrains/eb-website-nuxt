@@ -44,14 +44,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: [
-    '@/assets/css/About.css',
-    '@/assets/css/contact.css',
-    '@/assets/css/index.css',
-    '@/assets/css/myonsto.css',
-    // '@/assets/css/portfolio.css',
-    '@/assets/css/services.css',
-  ],
+  css: ['@/assets/css/style.css'],
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins

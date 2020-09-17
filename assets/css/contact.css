@@ -16,7 +16,7 @@ body {
 .clearfix::after {
   display: block;
   clear: both;
-  content: "";
+  content: '';
 }
 
 .client-logo {
@@ -183,14 +183,14 @@ input.contact-number {
   padding-left: 110px;
 }
 .intl-tel-input.selected-dial-code input,
-.intl-tel-input.selected-dial-code input[type="tel"] {
+.intl-tel-input.selected-dial-code input[type='tel'] {
   padding-right: 6px;
   margin-left: 0;
 }
 
 .intl-tel-input input,
-.intl-tel-input input[type="tel"],
-.intl-tel-input input[type="text"] {
+.intl-tel-input input[type='tel'],
+.intl-tel-input input[type='text'] {
   position: relative;
   z-index: 0;
   margin-top: 0 !important;

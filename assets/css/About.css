@@ -1,5 +1,5 @@
 body {
-  font-family: "Poppins", sans-serif !important;
+  font-family: 'Poppins', sans-serif !important;
 }
 .navbar-nav li a:hover {
   color: #f13c31 !important;
@@ -225,7 +225,7 @@ img {
 .slick-track::before,
 .slick-track::after {
   display: table;
-  content: "";
+  content: '';
 }
 *,
 ::after,
@@ -280,7 +280,7 @@ p a {
   -moz-osx-font-smoothing: grayscale;
 }
 .fa-linkedin:before {
-  content: "\f0e1";
+  content: '\f0e1';
 }
 .slick-track:after {
   clear: both;
@@ -288,7 +288,7 @@ p a {
 .slick-track:before,
 .slick-track:after {
   display: table;
-  content: "";
+  content: '';
 }
 .theme-white .team-grid-slider .leaders-slider .slick-arrow.next-arrow {
   background: url(../../assets/photo\arrow2.svg) no-repeat;
