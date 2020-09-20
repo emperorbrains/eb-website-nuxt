@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/about-us/index.js": "pages/about-us/index.js",
+    "pages/contact-us/index.js": "pages/contact-us/index.js",
+    "pages/home/index.js": "pages/home/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/portfolio/index.js": "pages/portfolio/index.js",
+    "pages/product-landing/index.js": "pages/product-landing/index.js",
+    "pages/services/index.js": "pages/services/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/about-us/index.js": "pages/about-us/index.js.map",
+    "pages/contact-us/index.js": "pages/contact-us/index.js.map",
+    "pages/home/index.js": "pages/home/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/portfolio/index.js": "pages/portfolio/index.js.map",
+    "pages/product-landing/index.js": "pages/product-landing/index.js.map",
+    "pages/services/index.js": "pages/services/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

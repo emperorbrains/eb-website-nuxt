@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\about-us\\\\index.vue",
+    "chunkName": "pages/about-us/index",
+    "_name": "_5ae139f2"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_392e639a"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_f1421434"
+  },
+  {
+    "name": "portfolio",
+    "path": "/portfolio",
+    "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\portfolio\\\\index.vue",
+    "chunkName": "pages/portfolio/index",
+    "_name": "_15c21c47"
+  },
+  {
+    "name": "product-landing",
+    "path": "/product-landing",
+    "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\product-landing\\\\index.vue",
+    "chunkName": "pages/product-landing/index",
+    "_name": "_734715f6"
+  },
+  {
+    "name": "services",
+    "path": "/services",
+    "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\services\\\\index.vue",
+    "chunkName": "pages/services/index",
+    "_name": "_49f9ef87"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4227bfe5"
+  }
+]
