@@ -353,10 +353,7 @@
                   </div>
                   <div class="cs-project-title">
                     <p>Media and Entertainment</p>
-                    <a
-                      class="text-decoration-none"
-                      >Snoopy Whoopy</a
-                    >
+                    <a class="text-decoration-none">Snoopy Whoopy</a>
                     <div class="project-detail">
                       An Android and iOS game application with appealing UI/UX.
                     </div>

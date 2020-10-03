@@ -36,31 +36,40 @@
                   <ul>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-ios.svg" alt="" />
+                        <img src="\assets\photo\ic-technology-ios.svg" alt="" />
                       </a>
                     </li>
 
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-android.svg" alt="" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="">
                         <img
-                          src="photo\ic-technology-react-native1x.svg"
+                          src="\assets\photo\ic-technology-android.svg"
                           alt=""
                         />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-xamarin.svg" alt="" />
+                        <img
+                          src="\assets\photo\ic-technology-react-native1x.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-titanium1x.svg" alt="" />
+                        <img
+                          src="\assets\photo\ic-technology-xamarin.svg"
+                          alt=""
+                        />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img
+                          src="\assets\photo\ic-technology-titanium1x.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                   </ul>

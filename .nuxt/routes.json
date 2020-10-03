@@ -21,6 +21,13 @@
     "_name": "_f1421434"
   },
   {
+    "name": "methodology",
+    "path": "/methodology",
+    "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\methodology\\\\index.vue",
+    "chunkName": "pages/methodology/index",
+    "_name": "_1599930c"
+  },
+  {
     "name": "portfolio",
     "path": "/portfolio",
     "component": "D:\\\\projects\\\\eb-website-nuxt\\\\pages\\\\portfolio\\\\index.vue",

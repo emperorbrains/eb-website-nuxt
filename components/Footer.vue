@@ -10,7 +10,7 @@
                   <div class="footer-logo">
                     <a href="">
                       <img
-                        src="@/assets/photo/small-eb01.svg"
+                        src="/assets/photo/small-eb01.svg"
                         style="width: 150px"
                         alt="EB"
                       />
