@@ -354,7 +354,6 @@
                   <div class="cs-project-title">
                     <p>Media and Entertainment</p>
                     <a
-                      href="/case-studies/snoopy-whoopy"
                       class="text-decoration-none"
                       >Snoopy Whoopy</a
                     >
