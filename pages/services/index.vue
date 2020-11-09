@@ -36,14 +36,17 @@
                   <ul>
                     <li>
                       <a href="">
-                        <img src="\assets\photo\ic-technology-ios.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-ios.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
 
                     <li>
                       <a href="">
                         <img
-                          src="\assets\photo\ic-technology-android.svg"
+                          src="@/assets/photo/ic-technology-android.svg"
                           alt=""
                         />
                       </a>
@@ -51,7 +54,7 @@
                     <li>
                       <a href="">
                         <img
-                          src="\assets\photo\ic-technology-react-native1x.svg"
+                          src="@/assets/photo/ic-technology-react-native1x.svg"
                           alt=""
                         />
                       </a>
@@ -59,7 +62,7 @@
                     <li>
                       <a href="">
                         <img
-                          src="\assets\photo\ic-technology-xamarin.svg"
+                          src="@/assets/photo/ic-technology-xamarin.svg"
                           alt=""
                         />
                       </a>
@@ -67,7 +70,7 @@
                     <li>
                       <a href="">
                         <img
-                          src="\assets\photo\ic-technology-titanium1x.svg"
+                          src="@/assets/photo/ic-technology-titanium1x.svg"
                           alt=""
                         />
                       </a>
@@ -97,7 +100,7 @@
                 <picture>
                   <img
                     class="w-100"
-                    src="photo\services-mobile-app-development.png"
+                    src="@/assets/photo/services-mobile-app-development.png"
                     alt=""
                   />
                 </picture>
@@ -127,60 +130,90 @@
                   <ul>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-php.svg" alt="" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="">
                         <img
-                          src="photo\ic-technology-microsoft-dot-net1x.svg"
+                          src="@/assets/photo/ic-technology-php.svg"
                           alt=""
                         />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-java.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-microsoft-dot-net1x.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-wordpress.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-java.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-drupal.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-wordpress.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-joomla.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-drupal.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-zend.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-joomla.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-cake-php.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-zend.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-laravel.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-cake-php.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-magento.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-laravel.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-zend.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-magento.svg"
+                          alt=""
+                        />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img
+                          src="@/assets/photo/ic-technology-zend.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                   </ul>
@@ -205,7 +238,7 @@
                 <picture>
                   <img
                     class="w-100"
-                    src="photo\img-services-web-development.jpg"
+                    src="@/assets/photo/img-services-web-development.jpg"
                     alt=""
                   />
                 </picture>
@@ -237,31 +270,43 @@
                   <ul>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-sketch.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-sketch.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
 
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-photoshop.svg" alt="" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="">
                         <img
-                          src="photo\ic-technology-adobe-illustrator.svg"
+                          src="@/assets/photo/ic-technology-photoshop.svg"
                           alt=""
                         />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-adobe-xd.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-adobe-illustrator.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-titanium1x.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-adobe-xd.svg"
+                          alt=""
+                        />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img
+                          src="@/assets/photo/ic-technology-titanium1x.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                   </ul>
@@ -289,7 +334,7 @@
                 <picture>
                   <img
                     class="w-100"
-                    src="photo\img-services-ui-ux-design.png"
+                    src="@/assets/photo/img-services-ui-ux-design.png"
                     alt=""
                   />
                 </picture>
@@ -340,7 +385,7 @@
                 <picture>
                   <img
                     class="w-100"
-                    src="photo\img-services-iot-solution.jpg"
+                    src="@/assets/photo/img-services-iot-solution.jpg"
                     alt=""
                   />
                 </picture>
@@ -376,19 +421,17 @@
                   <ul>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-apple-watch.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-apple-watch.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
 
                     <li>
                       <a href="">
-                        <img src="photo\virtual-reality-headset.svg" alt="" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="">
                         <img
-                          src="photo\ic-technology-android-watch.svg"
+                          src="@/assets/photo/virtual-reality-headset.svg"
                           alt=""
                         />
                       </a>
@@ -396,7 +439,15 @@
                     <li>
                       <a href="">
                         <img
-                          src="photo\ic-technology-google-glass.svg"
+                          src="@/assets/photo/ic-technology-android-watch.svg"
+                          alt=""
+                        />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="">
+                        <img
+                          src="@/assets/photo/ic-technology-google-glass.svg"
                           alt=""
                         />
                       </a>
@@ -424,7 +475,7 @@
                 <picture>
                   <img
                     class="w-100"
-                    src="photo\img-services-wearable-os.jpg"
+                    src="@/assets/photo/img-services-wearable-os.jpg"
                     alt=""
                   />
                 </picture>
@@ -476,7 +527,7 @@
                 <picture>
                   <img
                     class="w-100"
-                    src="photo\img-services-ai-ml.jpg"
+                    src="@/assets/photo/img-services-ai-ml.jpg"
                     alt=""
                   />
                 </picture>
@@ -528,7 +579,11 @@
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 order-1 order-lg-2">
               <div class="service-img">
                 <picture>
-                  <img class="w-100" src="photo\img-services-qa.jpg" alt="" />
+                  <img
+                    class="w-100"
+                    src="@/assets/photo/img-services-qa.jpg"
+                    alt=""
+                  />
                 </picture>
               </div>
             </div>
@@ -559,13 +614,19 @@
                   <ul>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-unity-3d.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-unity-3d.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
 
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-buildbox.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-buildbox.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                   </ul>
@@ -589,7 +650,7 @@
                 <picture>
                   <img
                     class="w-100"
-                    src="photo\img-services-mobile-game-development.jpg"
+                    src="@/assets/photo/img-services-mobile-game-development.jpg"
                     alt=""
                   />
                 </picture>
@@ -620,27 +681,33 @@
                   <ul>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-htc-vive.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-htc-vive.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
 
                     <li>
                       <a href="">
                         <img
-                          src="photo\ic-technology-samsung-gear.svg"
+                          src="@/assets/photo/ic-technology-samsung-gear.svg"
                           alt=""
                         />
                       </a>
                     </li>
                     <li>
                       <a href="">
-                        <img src="photo\ic-technology-oculas.svg" alt="" />
+                        <img
+                          src="@/assets/photo/ic-technology-oculas.svg"
+                          alt=""
+                        />
                       </a>
                     </li>
                     <li>
                       <a href="">
                         <img
-                          src="photo\ic-technology-microsoft-hololense.svg"
+                          src="@/assets/photo/ic-technology-microsoft-hololense.svg"
                           alt=""
                         />
                       </a>
@@ -670,7 +737,7 @@
                 <picture>
                   <img
                     class="w-100"
-                    src="photo\img-services-vr-app-development.jpg"
+                    src="@/assets/photo/img-services-vr-app-development.jpg"
                     alt=""
                   />
                 </picture>

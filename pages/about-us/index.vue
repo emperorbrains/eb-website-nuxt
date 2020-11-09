@@ -77,23 +77,8 @@
         <div class="row">
           <div class="col-12 col-md-6 col-lg-4">
             <div class="we-belief about-mr-top-70">
-              <img src="\assets\photo\logo9.svg" alt="" class="ng-lazyloaded" />
-              <h3>Client-centric Approach</h3>
-              <p>
-                For any business, customers are always at the center. Being a
-                leading web and mobile app development company, our definition
-                goes beyond our direct customers. We always start from where you
-                are with your ideas and we think from YOUR end customers'
-                perspectives, their pain areas and devise a solution that solves
-                core problems to benefit your business.
-              </p>
-            </div>
-          </div>
-
-          <div class="col-12 col-md-6 col-lg-4">
-            <div class="we-belief about-mr-top-70">
               <img
-                src="\assets\photo\logo10.svg"
+                src="@/assets\photo\logo9.svg"
                 alt=""
                 class="ng-lazyloaded"
               />
@@ -112,7 +97,26 @@
           <div class="col-12 col-md-6 col-lg-4">
             <div class="we-belief about-mr-top-70">
               <img
-                src="\assets\photo\logo11.svg"
+                src="@/assets\photo\logo10.svg"
+                alt=""
+                class="ng-lazyloaded"
+              />
+              <h3>Client-centric Approach</h3>
+              <p>
+                For any business, customers are always at the center. Being a
+                leading web and mobile app development company, our definition
+                goes beyond our direct customers. We always start from where you
+                are with your ideas and we think from YOUR end customers'
+                perspectives, their pain areas and devise a solution that solves
+                core problems to benefit your business.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-12 col-md-6 col-lg-4">
+            <div class="we-belief about-mr-top-70">
+              <img
+                src="@/assets\photo\logo11.svg"
                 alt=""
                 class="ng-lazyloaded"
               />
@@ -371,14 +375,14 @@
         <div class="row">
           <div class="col-12 col-md-12 col-lg-6">
             <div class="client-video-sec">
-              <img src="\assets\photo\img.jpg" alt="" />
+              <img src="@/assets\photo\img.jpg" alt="" />
               <div class="video-button">
                 <a
                   href=""
                   class="video-btn-play-client fancybox-media"
                   data-fancybox
                 >
-                  <img src="\assets\photo\videologo.svg" alt="" />
+                  <img src="@/assets\photo\videologo.svg" alt="" />
                 </a>
               </div>
             </div>
@@ -411,25 +415,25 @@
         <div class="certification-block">
           <ul>
             <li>
-              <img src="\assets\photo\applogo1.png" alt="" />
+              <img src="@/assets\photo\applogo1.png" alt="" />
             </li>
             <li>
-              <img src="\assets\photo\applogo2.png" alt="" />
+              <img src="@/assets\photo\applogo2.png" alt="" />
             </li>
             <li>
-              <img src="\assets\photo\applogo3.png" alt="" />
+              <img src="@/assets\photo\applogo3.png" alt="" />
             </li>
             <li>
-              <img src="\assets\photo\applogo4.png" alt="" />
+              <img src="@/assets\photo\applogo4.png" alt="" />
             </li>
             <li>
-              <img src="\assets\photo\applogo5.png" alt="" />
+              <img src="@/assets\photo\applogo5.png" alt="" />
             </li>
             <li>
-              <img src="\assets\photo\accolades-gesia-img.png" alt="" />
+              <img src="@/assets\photo\accolades-gesia-img.png" alt="" />
             </li>
             <li>
-              <img src="\assets\photo\accolades-iso-img.png" alt="" />
+              <img src="@/assets\photo\accolades-iso-img.png" alt="" />
             </li>
           </ul>
         </div>

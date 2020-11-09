@@ -7,7 +7,7 @@
           <div class="client-logo">
             <h4>Trusted by</h4>
             <div class="client-image client-logo">
-              <img src="/assets/images/inquiry-brand-logo-img.svg" alt="" />
+              <img src="@/assets/images/inquiry-brand-logo-img.svg" alt="" />
             </div>
           </div>
           <!----------Company map----------->
