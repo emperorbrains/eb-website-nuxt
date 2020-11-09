@@ -2,8 +2,8 @@
   <div>
     <nav class="navbar navbar-expand-md bg-white navbar-dark fixed-top">
       <div class="container-fluid">
-        <a href="" class="navbar-brand font-weight-bold text-dark"
-          ><i class="project01.html" aria-hidden="true"></i>
+        <nuxt-link to="/" class="navbar-brand font-weight-bold text-dark"
+          ><i aria-hidden="true"></i>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,7 +21,7 @@
               height="264"
             />
           </svg>
-        </a>
+        </nuxt-link>
         <button
           class="navbar-toggler badge-dark"
           type="button"
