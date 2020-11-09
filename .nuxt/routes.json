@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "D:\\\\EmperorBrains\\\\workspace\\\\eb-website-nuxt\\\\pages\\\\about-us\\\\index.vue",
+    "chunkName": "pages/about-us/index",
+    "_name": "_39c605a1"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "D:\\\\EmperorBrains\\\\workspace\\\\eb-website-nuxt\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_a5727098"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "D:\\\\EmperorBrains\\\\workspace\\\\eb-website-nuxt\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_7e32f580"
+  },
+  {
+    "name": "portfolio",
+    "path": "/portfolio",
+    "component": "D:\\\\EmperorBrains\\\\workspace\\\\eb-website-nuxt\\\\pages\\\\portfolio\\\\index.vue",
+    "chunkName": "pages/portfolio/index",
+    "_name": "_d5406626"
+  },
+  {
+    "name": "product-landing",
+    "path": "/product-landing",
+    "component": "D:\\\\EmperorBrains\\\\workspace\\\\eb-website-nuxt\\\\pages\\\\product-landing\\\\index.vue",
+    "chunkName": "pages/product-landing/index",
+    "_name": "_c1a99bc8"
+  },
+  {
+    "name": "services",
+    "path": "/services",
+    "component": "D:\\\\EmperorBrains\\\\workspace\\\\eb-website-nuxt\\\\pages\\\\services\\\\index.vue",
+    "chunkName": "pages/services/index",
+    "_name": "_9d9edbbe"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\EmperorBrains\\\\workspace\\\\eb-website-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2d1c0a02"
+  }
+]

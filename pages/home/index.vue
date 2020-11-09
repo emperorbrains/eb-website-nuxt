@@ -23,7 +23,7 @@
         <div class="col-lg-6 col-md-10 col-10 d-block m-auto">
           <img
             class="w-100"
-            src="@/assets/photo\home-page-banner-img.svg"
+            src="\assets\photo\home-page-banner-img.svg"
             alt=""
           />
         </div>

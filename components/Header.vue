@@ -33,35 +33,37 @@
         <div id="collapsenavbar" class="collapse navbar-collapse text-center">
           <ul class="navbar-nav ml-auto mr-auto">
             <li class="nav-item pr-4 font-weight-bold">
-              <nuxt-link to="about-us" class="nav-link text-dark"
+              <nuxt-link to="/about-us" class="nav-link text-dark"
                 >About</nuxt-link
               >
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <nuxt-link to="services" class="nav-link text-dark"
+              <nuxt-link to="/services" class="nav-link text-dark"
                 >Services</nuxt-link
               >
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <nuxt-link to="#" class="nav-link text-dark"
+              <nuxt-link to="/" class="nav-link text-dark"
                 >Technology</nuxt-link
               >
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <nuxt-link to="#" class="nav-link text-dark">Solutions</nuxt-link>
+              <nuxt-link to="/" class="nav-link text-dark">Solutions</nuxt-link>
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <nuxt-link to="portfolio" class="nav-link text-dark"
+              <nuxt-link to="/portfolio" class="nav-link text-dark"
                 >Portfolio</nuxt-link
               >
             </li>
             <li class="nav-item pr-4 font-weight-bold">
-              <nuxt-link to="#" class="nav-link text-dark"
+              <nuxt-link to="/methodology" class="nav-link text-dark"
                 >Methodology</nuxt-link
               >
             </li>
           </ul>
-          <nuxt-link to="#" class="link-button">Contact Us &#8594;</nuxt-link>
+          <nuxt-link to="/contact-us" class="link-button"
+            >Contact Us &#8594;</nuxt-link
+          >
         </div>
       </div>
     </nav>

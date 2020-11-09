@@ -77,7 +77,7 @@
         <div class="row">
           <div class="col-12 col-md-6 col-lg-4">
             <div class="we-belief about-mr-top-70">
-              <img src="photo\logo9.svg" alt="" class="ng-lazyloaded" />
+              <img src="\assets\photo\logo9.svg" alt="" class="ng-lazyloaded" />
               <h3>Client-centric Approach</h3>
               <p>
                 For any business, customers are always at the center. Being a
@@ -92,7 +92,11 @@
 
           <div class="col-12 col-md-6 col-lg-4">
             <div class="we-belief about-mr-top-70">
-              <img src="photo\logo10.svg" alt="" class="ng-lazyloaded" />
+              <img
+                src="\assets\photo\logo10.svg"
+                alt=""
+                class="ng-lazyloaded"
+              />
               <h3>Client-centric Approach</h3>
               <p>
                 For any business, customers are always at the center. Being a
@@ -107,7 +111,11 @@
 
           <div class="col-12 col-md-6 col-lg-4">
             <div class="we-belief about-mr-top-70">
-              <img src="photo\logo11.svg" alt="" class="ng-lazyloaded" />
+              <img
+                src="\assets\photo\logo11.svg"
+                alt=""
+                class="ng-lazyloaded"
+              />
               <h3>Client-centric Approach</h3>
               <p>
                 For any business, customers are always at the center. Being a
@@ -363,14 +371,14 @@
         <div class="row">
           <div class="col-12 col-md-12 col-lg-6">
             <div class="client-video-sec">
-              <img src="photo\img.jpg" alt="" />
+              <img src="\assets\photo\img.jpg" alt="" />
               <div class="video-button">
                 <a
                   href=""
                   class="video-btn-play-client fancybox-media"
                   data-fancybox
                 >
-                  <img src="photo\videologo.svg" alt="" />
+                  <img src="\assets\photo\videologo.svg" alt="" />
                 </a>
               </div>
             </div>
@@ -403,25 +411,25 @@
         <div class="certification-block">
           <ul>
             <li>
-              <img src="photo\applogo1.png" alt="" />
+              <img src="\assets\photo\applogo1.png" alt="" />
             </li>
             <li>
-              <img src="photo\applogo2.png" alt="" />
+              <img src="\assets\photo\applogo2.png" alt="" />
             </li>
             <li>
-              <img src="photo\applogo3.png" alt="" />
+              <img src="\assets\photo\applogo3.png" alt="" />
             </li>
             <li>
-              <img src="photo\applogo4.png" alt="" />
+              <img src="\assets\photo\applogo4.png" alt="" />
             </li>
             <li>
-              <img src="photo\applogo5.png" alt="" />
+              <img src="\assets\photo\applogo5.png" alt="" />
             </li>
             <li>
-              <img src="photo\accolades-gesia-img.png" alt="" />
+              <img src="\assets\photo\accolades-gesia-img.png" alt="" />
             </li>
             <li>
-              <img src="photo\accolades-iso-img.png" alt="" />
+              <img src="\assets\photo\accolades-iso-img.png" alt="" />
             </li>
           </ul>
         </div>
